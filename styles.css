@@ -12,7 +12,7 @@ a {
 }
 
 .business-card {
-    width: 290px;
+    width: 300px;
     background-color: white;
     padding: 20px;
     margin-top: 75px;
@@ -25,3 +25,4 @@ a {
 .profile-image {
     max-width: 100%;
 }
+
